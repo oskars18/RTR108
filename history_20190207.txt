@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  ssh -X x181REB346@213.175.92.37
+    5  git clone https://github.com/oskars18/RTR108
+    6  LS -LT
+    7  ls -lt
+    8  cd RTR108
+    9  ls -lt
+   10  cat README.md
+   11  ls -la
+   12  nano README.md
+   13  ls -lt
+   14  cat README.md
+   15  git config --global user.email oskars.selis@gmail.com
+   16  git add .
+   17  git commit -m "20190207_14_55_pirmais_commits"
+   18  git push origin master
+   19  nano README.md 
+   20  nano git-upload
+   21  ls -lt
+   22  ./git-upload
+   23  chmod 740 git-upload
+   24  ls -lt
+   25  history
+   26  history > history_20190207.txt
