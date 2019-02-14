@@ -8,7 +8,7 @@ rinda 1
 rinda 2  
 rinda 3  
 
-## **3.Nodarbība** (1. un 2. laboratorijas darbs *14.02.2019*.)
+## **3.Nodarbība - P04** (2. laboratorijas darbs *14.02.2019*.)
 
 
 
