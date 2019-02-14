@@ -1,6 +1,6 @@
 # RTR108
-**Studiju kursa Datormācība (speckurss) elektronikā klade**
-**Darbra izpildītājs: Oskars Šēlis
+**Studiju kursa Datormācība (speckurss) elektronikā klade**  
+**Darbra izpildītājs: Oskars Šēlis**
 
 ## **2.nodarbība**
 
