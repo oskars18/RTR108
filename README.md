@@ -26,8 +26,8 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 7. >>git-upload datums_15_32(laiks)
 
 ###**Papildus, komandas**  
-1.>>cp ../..*.* ./ (vienalga ar kādu nosaukumu un paplašinājumu)  
-2.>>rm -rf
+1. >> cp ../..*.* ./ (vienalga ar kādu nosaukumu un paplašinājumu)  
+2. >> rm -rf
 
 ...................................................................................................................
 
