@@ -16,7 +16,7 @@ rinda 3
 
 Laboratorijas darbs izpildīts - atrodas github'ā
 
-###**Instrukcija**
+### **Instrukcija**
 1. Jātrodas pirms mapes -> P01
 2. >>git clone https://github.com/...
 3. Redz mapes -> P01 un RTR108
@@ -26,7 +26,7 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 7. >>git-upload datums_15_32(laiks)
 
 
-###**Papildus, komandas**  
+### **Papildus, komandas**  
 1. >> cp ../..*.* ./ *(vienalga ar kādu nosaukumu un paplašinājumu)*  
 2. >> rm -rf
 3. >> rm -rf * *(Dzēst pilnīgi visu)*
