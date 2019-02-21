@@ -34,7 +34,8 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 
 ## **4.Nodarbība**
 
-Komandas, apzīmējumi  
+### **Komandas, apzīmējumi**
+
 1.uname -a  ->  nosaka OS  (piemēram, Linux)
 2.echo $0  ->  shell dialekts, (piemēram, bash)  
 3.Mēs vienmēr esam failu sistēmā  
@@ -45,7 +46,7 @@ Komandas, apzīmējumi
 8.sh  ->  pārslēdz interpretatoru    
 9.cd .  ->  solis uz vietas    
 
-### *? absolutās un relatīvās adreses**      
+##### *? absolutās un relatīvās adreses**      
 
 "/" -> saknes apgabals   
 >>cd -> pārvietoties uz mājām   
@@ -61,7 +62,7 @@ Komandas, apzīmējumi
 
 
 ### **PAPILDUS**    
-### *? mv  IDENTIFIER, DESTINATION....  **  
+? mv  IDENTIFIER, DESTINATION....   
 
 ..............................................................................................................................  
 
