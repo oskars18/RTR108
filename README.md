@@ -27,11 +27,35 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 
 
 ### **Papildus, komandas**  
-1. >> cp ../..*.* ./ *(vienalga ar kādu nosaukumu un paplašinājumu)*  
-2. >> rm -rf
-3. >> rm -rf * *(Dzēst pilnīgi visu)*
+1. >>cp ../..*.* ./ *(vienalga ar kādu nosaukumu un paplašinājumu)*  
+2. >>rm -rf
+3. >>rm -rf * *(Dzēst pilnīgi visu)*
 
 ...................................................................................................................
 
+## **4.Nodarbība**
+
+uname -a -> nosaka OS
+echo $0 -> shell dialekts, bash
+Mēs vienmēr esam failu sistēmā
+kas es esmu sistēmā ->whoami
+kur es esmu -> pwd
+kas man ie pieejams -> ls
+~ -> mājas mape
+sh -> pārslēdz interpretatoru
+cd . -solis uz vietas
+
+?absolutās un relatīvās adreses
+
+/ -> saknes apgabals
+>>cd -> pārvietoties uz mājām
+
+1.nano nosaukums.sh
+2.Komandas, saglabā
+3.echo $PATH ->Sistēmas ceļi
+4.$PATH =$PATH:~/ ->PAPILDINĀT CEĻUS
+5.Tiesību maiņa chmod
 
 
+PAPILDUS
+?mv  IDENTIFIER, DESTINATION....
