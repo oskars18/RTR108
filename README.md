@@ -48,8 +48,8 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 
 ##### *? absolutās un relatīvās adreses**      
 
-10. "/" -> saknes apgabals   
-11.>>cd -> pārvietoties uz mājām   
+10. "/" -> saknes apgabals  
+11. >>cd -> pārvietoties uz mājām   
 
 ### Komandu rinda palaišana no viena skripta  
 
