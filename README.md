@@ -36,29 +36,29 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 
 ### **Komandas, apzīmējumi**
 
-1.uname -a  ->  nosaka OS  (piemēram, Linux)
-2.echo $0  ->  shell dialekts, (piemēram, bash)  
-3.Mēs vienmēr esam failu sistēmā  
-4.kas es esmu sistēmā ->whoami  
-5.kur es esmu  ->  pwd  
-6.kas man ie pieejams  ->  ls  
-7.~  ->  mājas mape  
-8.sh  ->  pārslēdz interpretatoru    
-9.cd .  ->  solis uz vietas    
+1. uname -a  ->  nosaka OS  (piemēram, Linux)
+2. echo $0  ->  shell dialekts, (piemēram, bash)  
+3. Mēs vienmēr esam failu sistēmā  
+4. kas es esmu sistēmā ->whoami  
+5. kur es esmu  ->  pwd  
+6. kas man ie pieejams  ->  ls  
+7. ~  ->  mājas mape  
+8. sh  ->  pārslēdz interpretatoru    
+9. cd .  ->  solis uz vietas    
 
 ##### *? absolutās un relatīvās adreses**      
 
-"/" -> saknes apgabals   
->>cd -> pārvietoties uz mājām   
+10. "/" -> saknes apgabals   
+11.>>cd -> pārvietoties uz mājām   
 
 ### Komandu rinda palaišana no viena skripta  
 
-1.nano nosaukums.sh   
-2.Komandas, saglabā   
-3.echo $PATH  ->  Sistēmas ceļi   
-4.$PATH =$PATH:~/  ->  PAPILDINĀT CEĻUS    
-5.Tiesību maiņa chmod  
-6.Palaišana  
+1. nano nosaukums.sh   
+2. Komandas, saglabā   
+3. echo $PATH  ->  Sistēmas ceļi   
+4. $PATH =$PATH:~/  ->  PAPILDINĀT CEĻUS    
+5. Tiesību maiņa chmod  
+6. Palaišana  
 
 
 ### **PAPILDUS**    
