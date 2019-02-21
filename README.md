@@ -45,12 +45,12 @@ Komandas, apzīmējumi
 8.sh  ->  pārslēdz interpretatoru    
 9.cd .  ->  solis uz vietas    
 
-# *? absolutās un relatīvās adreses**      
+### *? absolutās un relatīvās adreses**      
 
 "/" -> saknes apgabals   
 >>cd -> pārvietoties uz mājām   
 
-# Komandu rinda palaišana no viena skripta  
+### Komandu rinda palaišana no viena skripta  
 
 1.nano nosaukums.sh   
 2.Komandas, saglabā   
@@ -60,8 +60,8 @@ Komandas, apzīmējumi
 6.Palaišana  
 
 
-# **PAPILDUS**    
-# *? mv  IDENTIFIER, DESTINATION....  **  
+### **PAPILDUS**    
+### *? mv  IDENTIFIER, DESTINATION....  **  
 
 ..............................................................................................................................  
 
