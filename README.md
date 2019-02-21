@@ -2,7 +2,7 @@
 **Studiju kursa Datormācība (speckurss) elektronikā klade**  
 **Darbra izpildītājs: Oskars Šēlis**
 
-..................................................................................................................
+..............................................................................................................................  
 
 ## **2.nodarbība**
 
@@ -10,8 +10,7 @@ rinda 1
 rinda 2  
 rinda 3  
 
-...................................................................................................................
-
+..............................................................................................................................  
 ## **3.Nodarbība - P01** (2. laboratorijas darbs *14.02.2019*.)
 
 Laboratorijas darbs izpildīts - atrodas github'ā
@@ -31,31 +30,40 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 2. >>rm -rf
 3. >>rm -rf * *(Dzēst pilnīgi visu)*
 
-...................................................................................................................
+..............................................................................................................................  
 
 ## **4.Nodarbība**
 
-uname -a -> nosaka OS  
-echo $0 -> shell dialekts, bash  
-Mēs vienmēr esam failu sistēmā  
-kas es esmu sistēmā ->whoami  
-kur es esmu -> pwd  
-kas man ie pieejams -> ls  
-~ -> mājas mape  
-sh -> pārslēdz interpretatoru  
-cd . -solis uz vietas  
+Komandas, apzīmējumi  
+1.uname -a  ->  nosaka OS  (piemēram, Linux)
+2.echo $0  ->  shell dialekts, (piemēram, bash)  
+3.Mēs vienmēr esam failu sistēmā  
+4.kas es esmu sistēmā ->whoami  
+5.kur es esmu  ->  pwd  
+6.kas man ie pieejams  ->  ls  
+7.~  ->  mājas mape  
+8.sh  ->  pārslēdz interpretatoru    
+9.cd .  ->  solis uz vietas    
 
-?absolutās un relatīvās adreses  
+# *? absolutās un relatīvās adreses**      
 
-/ -> saknes apgabals  
->>cd -> pārvietoties uz mājām  
+"/" -> saknes apgabals   
+>>cd -> pārvietoties uz mājām   
 
-1.nano nosaukums.sh  
-2.Komandas, saglabā  
-3.echo $PATH ->Sistēmas ceļi  
-4.$PATH =$PATH:~/ ->PAPILDINĀT CEĻUS  
+# Komandu rinda palaišana no viena skripta  
+
+1.nano nosaukums.sh   
+2.Komandas, saglabā   
+3.echo $PATH  ->  Sistēmas ceļi   
+4.$PATH =$PATH:~/  ->  PAPILDINĀT CEĻUS    
 5.Tiesību maiņa chmod  
+6.Palaišana  
 
 
-PAPILDUS  
-?mv  IDENTIFIER, DESTINATION....  
+# **PAPILDUS**    
+# *? mv  IDENTIFIER, DESTINATION....  **  
+
+..............................................................................................................................  
+
+
+END  
