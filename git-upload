@@ -1,7 +1,9 @@
 #!/bin/bash
 if [ $# == 1 ]
 then
+git config --global user.name oskars18
 git config --global user.email oskars.selis@gmail.com
+#git config user.email oskars.selis@gmail.com
 git add .
 #git commit -m "20190207_14_55"
 git commit -m $1
