@@ -67,4 +67,9 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 ..............................................................................................................................  
 
 
+# 7.lekcija???
+Latex ir labi piemērots, lai formatētu garu lappušu tekstus un  iegūstot arī mazu faila atmiņu.
+Ir struktūra, tātad ie parskatāms.
+
+
 END  
