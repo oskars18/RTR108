@@ -85,14 +85,14 @@ Salīdzinot ar word dokumentu, Latex ērtāk lietot, ja jānoformē daudz lapas,
 ### **PAPILDUS** 
 ### Svarīgi skripti LATEX dokumentiem  
 ### 1.Zīmēt grafiku: 
-\usepackage{tikz} 
-\begin{tikzpicture}[>=latex] 
-\begin{axis}[ 
-  axis x line=center, 
-  axis y line=center, 
-  xtick={-5,0,...,25}, 
-  ytick={-5,0,...,25}, 
-  xlabel={$R$}, 
+\usepackage{tikz}   
+\begin{tikzpicture}[>=latex]   
+\begin{axis}[
+  axis x line=center,
+  axis y line=center,
+  xtick={-5,0,...,25},
+  ytick={-5,0,...,25},
+  xlabel={$R$},
   ylabel={$UR$},
   xlabel style={below right},
   ylabel style={above left},
