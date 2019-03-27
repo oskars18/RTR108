@@ -2,7 +2,7 @@
 **Studiju kursa Datormācība (speckurss) elektronikā klade**  
 **Darbra izpildītājs: Oskars Šēlis**
 
-..............................................................................................................................  
+............................................................................................................................................................................................................................................................ 
 
 ## **2.nodarbība**
 
@@ -74,13 +74,13 @@ Laboratorijas darbs izpildīts - atrodas github'ā
 
 ### Pabeidzam apgūt Shell valodu
 .............................................................................................................................. 
-# 7.lekcija - LATEX
+# 7.nodarbība - LATEX
 Latex ir labi piemērots, lai formatētu garu lappušu tekstus un  iegūstot arī mazu faila atmiņu.
 Ir struktūra, tātad tie parskatāms.
 
 Salīdzinot ar word dokumentu, Latex ērtāk lietot, ja jānoformē daudz lapas, teksta un attēlu, kur ir ļoti liels apjoms darba.
 .............................................................................................................................. 
-# 8.lekcija - Pabeidzam LATEX laboratorijas darbus un augšupielādējam github'ā.
+# 8.nodarbība - Pabeidzam LATEX laboratorijas darbus un augšupielādējam github'ā.
 
 ### **PAPILDUS** 
 ### Svarīgi skripti LATEX dokumentiem
@@ -116,7 +116,7 @@ to[short, o-o] (0,0)
 \end{circuitikz}
 
 .............................................................................................................................. 
-# 9.Lekcija
+# 9.nodarbība
 
 .............................................................................................................................. 
 
