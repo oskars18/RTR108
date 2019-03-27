@@ -89,31 +89,31 @@ Salīdzinot ar word dokumentu, Latex ērtāk lietot, ja jānoformē daudz lapas,
 \begin{tikzpicture}[>=latex]   
 \begin{axis}[     
   axis x line=center,     
-  axis y line=center,
-  xtick={-5,0,...,25},
-  ytick={-5,0,...,25},
-  xlabel={$R$},
-  ylabel={$UR$},
-  xlabel style={below right},
-  ylabel style={above left},
-  xmin=0,
-  xmax=30,
-  ymin=0,
-  ymax=30]
-\addplot [mark=none,domain=0:25] {sqrt(50*x)};
-\end{axis}
-\end{tikzpicture}
+  axis y line=center,    
+  xtick={-5,0,...,25},     
+  ytick={-5,0,...,25},    
+  xlabel={$R$},    
+  ylabel={$UR$},     
+  xlabel style={below right},     
+  ylabel style={above left},     
+  xmin=0,     
+  xmax=30,     
+  ymin=0,      
+  ymax=30]      
+\addplot [mark=none,domain=0:25] {sqrt(50*x)};     
+\end{axis}      
+\end{tikzpicture}      
 
 ### 2.Shēmas zīmēšana
-\usepackage[siunitx,europeanresistors,americaninductors]{circuitikz}
-\begin{circuitikz}[scale=1, every node/.style={transform shape}]
-\draw (0,0)
-to[V=$U1$, o-o] (0,2)
-to[R=$R1$, o-o] (4,2)
-to[R=$R2$, *-*] (4,0)
-to[short, o-o] (0,0)
-;
-\end{circuitikz}
+\usepackage[siunitx,europeanresistors,americaninductors]{circuitikz}      
+\begin{circuitikz}[scale=1, every node/.style={transform shape}]      
+\draw (0,0)      
+to[V=$U1$, o-o] (0,2)      
+to[R=$R1$, o-o] (4,2)         
+to[R=$R2$, *-*] (4,0)       
+to[short, o-o] (0,0)      
+;      
+\end{circuitikz}      
 
 ............................................................................................................................................................................................................................................................  
 ## **9.nodarbība**
